@@ -4,13 +4,15 @@
 **Saml415/saml415** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 📓 You can find my work on my [Portforlio](https://saml415.github.io/react-portfolio/) 
+- 🔭 I’m currently working on [react-portfolio](https://github.com/Saml415/react-portfolio)
+- 🌱 I’m currently learning React and Javascript Algorithims
+- 👯 I’m looking to collaborate on Algorithims
+- 💬 Ask me about: What are my skills and what do I prefer to work on.
 - 📫 How to reach me: My email is [bobdoe784@gmail.com](mailto:bobdoe784@gmail.com)
 
-- ⚡ Fun fact: ...
 
+Contacts:
+
+
+![image](https://user-images.githubusercontent.com/81829274/133861845-eebdcb10-16b6-4194-a6de-4286378e7903.png)
