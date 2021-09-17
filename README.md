@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **Saml415/saml415** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: My email is [bobdoe784@gmail.com](mailto:bobdoe784@gmail.com)
 
 - ⚡ Fun fact: ...
--->
+
