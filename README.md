@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**Saml415/saml415** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 - 📓 You can find my work on my [Portforlio](https://saml415.github.io/react-portfolio/) 
