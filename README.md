@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: My email is [bobdoe784@gmail.com](mailto:bobdoe784@gmail.com)
 
 
-##Contacts:
+## Contacts:
 
 
 ![image](https://user-images.githubusercontent.com/81829274/133861845-eebdcb10-16b6-4194-a6de-4286378e7903.png)
